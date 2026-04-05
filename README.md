@@ -2,7 +2,7 @@
 
 This notebook implements an object-oriented discrete-event simulation of overcrowding in the Brazilian prison system and adds an **interactive control panel** for scenario testing at the national level, for average/large comarcas, or for a specific comarca loaded from a parameter table. This is part of a larger project, the visual story "Stacked Behind Bars," developed by Gisele Fretta. Access the visual story here: https://lookerstudio.google.com/s/tmXwSlOA3UE
 
-The file documented here is `simulation_code_with_user_interface.ipynb`.
+The file documented here is `simulation_code_with_user_interface.ipynb`. This Notebook won't render on GitHub because of the widgets used for the user interface. The best strategy is to open the gist at https://colab.research.google.com/gist/GiFretta/ac9f00c524cd6d6a167bf4c3b2a9c25d/simulation_code_with_user_interface.ipynb.
 
 ## What this notebook does
 
